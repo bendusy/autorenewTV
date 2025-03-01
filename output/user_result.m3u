@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-01 06:12:45" tvg-logo="https://live.fanmingming.com/tv/2025-03-01 06:12:45.png" group-title="🕘️更新时间",2025-03-01 06:12:45
+#EXTINF:-1 tvg-name="2025-03-01 18:20:17" tvg-logo="https://live.fanmingming.com/tv/2025-03-01 18:20:17.png" group-title="🕘️更新时间",2025-03-01 18:20:17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="🏠广东频道",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$订阅源-IPv6
