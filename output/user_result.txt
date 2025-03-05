@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-05 18:22:43,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$订阅源-IPv6
+2025-03-06 06:14:07,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$订阅源-IPv6
 🏠广东频道,#genre#
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$订阅源-IPv6
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8$订阅源-IPv6
@@ -7,11 +7,11 @@
 广东珠江,http://iptv.diyp.tech/iptv.php?key=gat2&id=5$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,http://iptv.diyp.tech/iptv.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840$订阅源
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
